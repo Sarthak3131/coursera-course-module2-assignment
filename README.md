@@ -5,7 +5,7 @@ Coursera course: HTML, CSS, and JavaScript for Web Developers, Module 2 Assignme
 
 Coursera course: HTML, CSS, and Javascript for Web Developers, Module 2 Coding Assignment, completed.
 
-link: https://github.com/Sarthak3131/coursera-course-module2-assignment
+link: https://sarthak3131.github.io/coursera-course-module2-assignment/
 
 Woo-hoo! You get to do some coding! Exciting!
 
